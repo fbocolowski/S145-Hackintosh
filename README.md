@@ -6,7 +6,7 @@
 
 | Specs | Details |
 |------------|-------------------------------|
-| Model |  |
+| Model | Lenovo Ideapad S145 81S90003BR |
 | OS | macOS Catalina 10.15.3 |
 | CPU | Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz |
 | RAM | 20 GB DDR4 2400MHz |
