@@ -55,10 +55,6 @@
 ### Setup
 
 - Copy this EFI folder
-
 - Generate your own SMBIOS
-
 - (Optional) Install Brazilian ABNT2 Keyboard Support
-
 - Install ALCPlugFix
-
