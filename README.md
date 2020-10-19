@@ -10,7 +10,7 @@
 | OS | macOS Catalina 10.15.3 |
 | CPU | Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz |
 | RAM | 20 GB DDR4 2400MHz |
-| iGPU | Iris Plus Graphics 655 (Fake GPU) |
+| iGPU | Iris Plus Graphics 655 (Fake GPU for HD 620) |
 | WiFi | Wireless USB Adapter TL-WN725N V3 |
 
 ### Works
@@ -38,7 +38,7 @@
 
 ## Tools
 
-- [gibMacOS](https://github.com/corpnewt/gibMacOS): Download MacOS ISO
+- [gibMacOS](https://github.com/corpnewt/gibMacOS): Download macOS Vanilla ISO
 - [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS): Generate SMBIOS
 - [ABNT2-Layout](https://github.com/lailsonbm/ABNT2-Layout): Brazilian ABNT2 Keyboard
 - [MountEFI](https://github.com/corpnewt/MountEFI): EFI Partition Mounter
@@ -57,3 +57,8 @@
 - Copy this EFI folder
 
 - Generate your own SMBIOS
+
+- (Optional) Install Brazilian ABNT2 Keyboard Support
+
+- Install ALCPlugFix
+
