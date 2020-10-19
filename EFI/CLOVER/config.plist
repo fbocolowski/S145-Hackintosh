@@ -228,42 +228,50 @@
 		<dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
-				<key>AAPL,GfxYTile</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-unifiedmem</key>
-				<data>AAAAgA==</data>
-				<key>framebuffer-con2-alldata</key>
-				<data>AgYKAAAEAADHAQAA</data>
 				<key>framebuffer-stolenmem</key>
 				<data>AAAwAQ==</data>
-				<key>model</key>
-				<string>Iris Plus Graphics 655</string>
-				<key>framebuffer-con0-alldata</key>
-				<data>AAAIAAIAAACYAAAA</data>
-				<key>device-id</key>
-				<data>pT4AAA==</data>
-				<key>framebuffer-fbmem</key>
-				<data>AACQAA==</data>
-				<key>device_type</key>
-				<string>VGA compatible controller</string>
-				<key>hda-gfx</key>
-				<string>onboard-1</string>
-				<key>framebuffer-patch-enable</key>
-				<data>AQAAAA==</data>
-				<key>enable-hdmi20</key>
-				<data>AQAAAA==</data>
-				<key>AAPL,slot-name</key>
-				<string>Internal</string>
+				<key>framebuffer-con2-alldata</key>
+				<data>AgYKAAAEAADHAQAA</data>
 				<key>framebuffer-con1-alldata</key>
 				<data>AQEJAAAIAADHAQAA</data>
-				<key>AAPL,ig-platform-id</key>
-				<data>CQClPg==</data>
-				<key>framebuffer-con2-enable</key>
-				<integer>1</integer>
+				<key>framebuffer-con1-has-lspcon</key>
+				<data>AQAAAA==</data>
+				<key>hda-gfx</key>
+				<string>onboard-1</string>
+				<key>enable-hdmi20</key>
+				<data>AQAAAA==</data>
+				<key>enable-lspcon-support</key>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con1-enable</key>
 				<integer>1</integer>
+				<key>framebuffer-con2-enable</key>
+				<integer>1</integer>
+				<key>device-id</key>
+				<data>pT4AAA==</data>
+				<key>AAPL,GfxYTile</key>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con0-enable</key>
 				<integer>1</integer>
+				<key>model</key>
+				<string>Intel Corporation, Iris Plus Graphics 655</string>
+				<key>igfxfw</key>
+				<data>AgAAAA==</data>
+				<key>framebuffer-fbmem</key>
+				<data>AACQAA==</data>
+				<key>AAPL,ig-platform-id</key>
+				<data>AAClPg==</data>
+				<key>framebuffer-unifiedmem</key>
+				<data>AAAAgA==</data>
+				<key>AAPL,slot-name</key>
+				<string>Internal</string>
+				<key>device_type</key>
+				<string>VGA compatible controller</string>
+				<key>framebuffer-patch-enable</key>
+				<data>AQAAAA==</data>
+				<key>disable-external-gpu</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con0-alldata</key>
+				<data>AAAIAAIAAACYAAAA</data>
 			</dict>
 		</dict>
 		<key>InjectLAN</key>
@@ -481,13 +489,13 @@
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C029202704NJH4RUE</string>
+		<string>C02753405GUJH4RJA</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>ProductName</key>
 		<string>MacBookPro15,2</string>
 		<key>SmUUID</key>
-		<string>48B8CA03-B2DE-4796-93FF-19C9B1E88991</string>
+		<string>E2EC1923-1962-47EA-ABDD-C6FF085B785</string>
 		<key>Mobile</key>
 		<true/>
 		<key>BoardType</key>
@@ -495,7 +503,7 @@
 		<key>EfiVersion</key>
 		<string>1037.80.41.0.0</string>
 		<key>SerialNumber</key>
-		<string>C02YQGYRJHCC</string>
+		<string>C02W1UYYJHCC</string>
 		<key>LocationInChassis</key>
 		<string>Part Component</string>
 		<key>BiosReleaseDate</key>
