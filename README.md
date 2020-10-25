@@ -38,6 +38,7 @@
 
 ## Tools
 
+- [Olarila](https://www.olarila.com/): Download macOS ISO
 - [gibMacOS](https://github.com/corpnewt/gibMacOS): Download macOS Vanilla ISO
 - [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS): Generate SMBIOS
 - [ABNT2-Layout](https://github.com/lailsonbm/ABNT2-Layout): Brazilian ABNT2 Keyboard
@@ -57,4 +58,7 @@
 - Copy this EFI folder
 - Generate your own SMBIOS
 - (Optional) Install Brazilian ABNT2 Keyboard Support
-- Install ALCPlugFix
+
+## Thanks
+
+Thanks to "MaLd0n" for his post on Olarila: https://www.olarila.com/topic/6874-olarila-hackbook-lenovo-ideapad-s145-8th-gen-mojave-catalina-big-sur-full-dsdt-patches-clover-and-opencore/
